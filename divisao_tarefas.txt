@@ -1,0 +1,21 @@
+1- definir a classe ok
+
+---
+
+2.
+
+F1. Enviar um JSON contendo os dados da entidade escolhida para o endpoint de inserção de sua API e inserir a entidade em um arquivo CSV. Ou seja: cadastrar dados relacionados à entidade definida na questão 1. A entidade deve ser adicionada ao arquivo CSV através de um append. quase certo, precisa ser ajustado pra guardar diretamente em um CSV
+
+F2. Retornar um JSON contendo todas as entidades cadastradas no CSV através de um endpoint de sua API. ok
+
+F3. Fazer o CRUD completo da entidade usando o padrão de API REST, sempre atualizando o CSV. ok
+
+F4. Mostrar a quantidade de entidades existentes no arquivo CSV através de um endpoint específico. Esta funcionalidade deve mostrar a real quantidade de entidades existentes no arquivo CSV, mesmo que dados sejam inseridos ou removidos no arquivo CSV através de um editor de texto externo à sua aplicação.
+
+F5. Compactar o arquivo CSV e gerar um novo arquivo de mesmo nome, mas com a extensão ZIP e retorná-lo através de um endpoint específico de sua API.
+
+F6. Retornar o hash SHA256 do arquivo CSV através de um endpoint de sua API.
+
+---
+
+3. Crie um arquivo (divisao_tarefas.txt) detalhando a divisão de tarefas e mostrando o que cada membro da dupla efetivamente fez no trabalho. Divida as tarefas definidas entre os membros da dupla.
