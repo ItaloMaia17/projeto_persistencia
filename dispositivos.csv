@@ -1,1 +1,11 @@
-Id, Marca, Modelo, Tipo, Ano de Fabricacao,preco
+id,marca,modelo,tipo,ano_fabricacao,preco
+1,Redmi,Note 13 pro,Smartphone,2024,1389.99
+2,Lenovo,LOQ,Notebook,2024,4559.8
+3,Samsumg,Galaxy tab A9,Tablet,2020,997.0
+4,LG,UltraGear 24in,Monitor,2024,1019.51
+5,Xiaomi,Mi band 8,smartband,2023,328.6
+6,Samsumg,A05s,Smartphone,2024,789.01
+7,Sony,PlayStation 5 slim,VideoGame,2020,2999.0
+8,Dell,inspiron 15 i7-1255U,Noteboook,2022,4199.0
+9,apple,iphone 13 pro ,Smartphone,2021,3499.0
+10,Nitendo,Switch Oled,VideoGame,2022,2069.01
