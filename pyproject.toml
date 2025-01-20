@@ -1,0 +1,13 @@
+[project]
+name = "entrega-2"
+version = "0.1.0"
+description = "Sistema de gerenciamento de assistência técnica"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "datetime>=5.5",
+    "fastapi[standard]>=0.115.6",
+    "logging>=0.4.9.6",
+    "ruff>=0.9.1",
+    "sqlmodel>=0.0.22",
+]
